@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Sample student project courtesy of Jessica Katz, a student in the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/6a8b614b8876b69423b120b415f6d0e9_hartford_fin_rep.pdf
+file: /media/courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/6a8b614b8876b69423b120b415f6d0e9_hartford_fin_rep.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: hartford_fin_rep.pdf
 uid: 6a8b614b-8876-b694-23b1-20b415f6d0e9
