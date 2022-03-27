@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f92f51d5-459b-82e4-6b72-897c83f4c693
 resourcetype: Document
 title: consumerexpend.pdf
 uid: defb120b-0e56-f58f-627d-d2fc23f58ab0

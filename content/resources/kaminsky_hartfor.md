@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ce03c221-e120-c955-4d1c-bdc84a8ca4a3
 resourcetype: Document
 title: kaminsky_hartfor.pdf
 uid: 0eedcc14-b5de-0499-fc2f-fc61ad724f35

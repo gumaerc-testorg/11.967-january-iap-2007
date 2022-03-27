@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ce03c221-e120-c955-4d1c-bdc84a8ca4a3
 resourcetype: Document
 title: hartford_fin_rep.pdf
 uid: 6a8b614b-8876-b694-23b1-20b415f6d0e9

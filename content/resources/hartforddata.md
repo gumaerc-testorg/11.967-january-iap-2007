@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f92f51d5-459b-82e4-6b72-897c83f4c693
 resourcetype: Document
 title: hartforddata.pdf
 uid: 9a09c327-0c3a-d1ac-cea5-5f323f463148
