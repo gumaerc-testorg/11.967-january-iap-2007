@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section contains complete set of problem statements to
+  test students understanding of course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,17 +14,17 @@ Each student needs to complete an economic profile and proposed economic develop
 Assignments
 -----------
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1))
+Assignment 1 ({{% resource_link 913eb088-bab3-54bb-20a1-cd21a21f8928 "PDF" %}})
 
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assn2))
+Assignment 2 ({{% resource_link 4ac76701-b2b0-2c94-3842-e904c19641c5 "PDF" %}})
 
-Final Report Assignment ([PDF]({{< baseurl >}}/resources/finalreport))
+Final Report Assignment ({{% resource_link 8677dd52-20d9-3484-c851-e916bf18067e "PDF" %}})
 
 Data Files
 ----------
 
-Hartford Data ([PDF]({{< baseurl >}}/resources/hartforddata))
+Hartford Data ({{% resource_link 9a09c327-0c3a-d1ac-cea5-5f323f463148 "PDF" %}})
 
-County Data ([PDF]({{< baseurl >}}/resources/countydata))
+County Data ({{% resource_link faff1298-2f4f-40bf-e9b3-2b835328a5b7 "PDF" %}})
 
-Consumer Expenditure Survey Data ([PDF]({{< baseurl >}}/resources/consumerexpend))
+Consumer Expenditure Survey Data ({{% resource_link defb120b-0e56-f58f-627d-d2fc23f58ab0 "PDF" %}})

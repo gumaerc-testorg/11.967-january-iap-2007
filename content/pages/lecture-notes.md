@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains table listing topics with lecture
+  notes and lecture files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ Economic Data Sources and Profiling the Local and Regional Economy
 Economic development planning begins with a sound understanding of the composition and performance of the local economy. The first part of this class will focus on how to use published economic data to profile a region's economy, understand the major sectors of the economy, growth trends, and key population and labor force characteristics. We will also discuss indicators that can be used to assess how well the local economy is performing and delivering benefits to the local population. The second part of the class will review two analytical techniques - shift share analysis and location quotients - that identify highly concentrated industries, better and worse performing ones, and industries which are either export-oriented or present potential for import-substitution.
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 1 ([PDF]({{< baseurl >}}/resources/lect1))
+Lecture 1 ({{% resource_link b1d2dcbe-cab2-786d-6eec-610c3d756a0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Industry and Cluster Analysis
 The first part of this class is devoted to discussing Assignment 1. The second part introduces industry and cluster analysis techniques. These methods are important to economic development planning because the fortunes of major industries and related industry groups ("clusters") have a large impact on a region's economic development. The class covers how clusters are defined and identified, important aspects of an industry or cluster to study for economic development planning purposes, and the components of industry and cluster analysis. We also consider how this information can be used to define industry - or cluster-based economic development strategies.
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 2 ([PDF]({{< baseurl >}}/resources/lect2))
+Lecture 2 ({{% resource_link 53e74fa7-ae4f-5e7c-e1ce-6e87fe2e9ca0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,9 +71,9 @@ Market analysis integrates information on market demand and supply to assess the
 {{< tdopen >}}
 
 
-Lecture 3 ([PDF]({{< baseurl >}}/resources/lect3))
+Lecture 3 ({{% resource_link 774e974d-fba9-1f6e-83c3-8d97de0b6170 "PDF" %}})
 
-Lecture 3 Notes ([PDF]({{< baseurl >}}/resources/lect3notes))
+Lecture 3 Notes ({{% resource_link d2ac3219-fcdc-0c42-46ee-7eac40bb89d7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -88,7 +90,7 @@ Resource and Asset Assessment and Discussion of Economic Profile Assignment
 After reviewing Assignment 2 on retail market analysis, this class will cover the evaluation of local economic development resources, which are the foundation for economic development. An understanding of critical resource assets and liabilities, and the obstacles to applying these resources to achieve local goals, is critical to design effective plans. In this final class, we provide an overview of key resources area to evaluate, how to research and analyze the resource base, and applying what is learned to formulating plans. The last part of the class will be set aside to recap and address questions about the Hartford, Vermont Economic Profile Assignment.
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 4 Notes ([PDF]({{< baseurl >}}/resources/lect4notes))
+Lecture 4 Notes ({{% resource_link 31a5b57f-99ce-91de-69e5-7346684789fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
