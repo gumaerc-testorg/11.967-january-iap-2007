@@ -5,6 +5,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hartforddata.pdf
 uid: 9a09c327-0c3a-d1ac-cea5-5f323f463148
 ---
 This resource contains table on hartford data.
-

@@ -5,6 +5,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: consumerexpend.pdf
 uid: defb120b-0e56-f58f-627d-d2fc23f58ab0
 ---
 This resource contains a table on consumer expenditure survey data.
-

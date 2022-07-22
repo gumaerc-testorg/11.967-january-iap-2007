@@ -6,6 +6,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn2.pdf
 uid: 4ac76701-b2b0-2c94-3842-e904c19641c5
 ---
 This resource contains questions on topics hartford?s retail area, retail market, consumer spending and consumer expenditure survey.
-

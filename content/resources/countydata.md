@@ -5,6 +5,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: countydata.pdf
 uid: faff1298-2f4f-40bf-e9b3-2b835328a5b7
 ---
 This resource contains table on county data.
-

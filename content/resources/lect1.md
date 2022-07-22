@@ -7,6 +7,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lect1.pdf
 uid: b1d2dcbe-cab2-786d-6eec-610c3d756a0c
 ---
 This resource contains information on topics local economy, cluster analysis, market analysis, demographic analysis, economic performance analysis, shift share analysis and interpreting shift share.
-

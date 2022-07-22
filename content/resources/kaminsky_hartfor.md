@@ -5,6 +5,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kaminsky_hartfor.pdf
 uid: 0eedcc14-b5de-0499-fc2f-fc61ad724f35
 ---
 Sample student project from Jenifer Kaminsky, a student in the course.
-

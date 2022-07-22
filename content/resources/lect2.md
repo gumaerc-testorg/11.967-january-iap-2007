@@ -7,6 +7,7 @@ file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-dev
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lect2.pdf
 uid: 53e74fa7-ae4f-5e7c-e1ce-6e87fe2e9ca0
 ---
 This resource contains information on topics economic development lens for industry analysis, competition and industry analysis, cost advantage, cluster analysis and cluster analysis process.
-
