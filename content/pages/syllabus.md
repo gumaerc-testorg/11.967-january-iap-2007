@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  course description and objectives, reading materials and course requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ad2b8c7e-fc3a-3113-a2a4-6a3b62164a21
 ---
@@ -24,7 +28,7 @@ Four analytical approaches are covered in the course with one day devoted to eac
 Reading Materials
 -----------------
 
-Reading materials for each class are listed in the [readings section]({{< baseurl >}}/pages/readings) and need to be carefully read prior to class. Most readings are primarily professional reports and practitioner-oriented discussions of how to conduct and use an analytical tool. These readings introduce each analytical approach, but also provide a context for considering the benefits, problems and limitations of the method.
+Reading materials for each class are listed in the {{% resource_link c42a8518-6fd6-2c91-f5d8-4d53c5ff4f06 "readings section" %}} and need to be carefully read prior to class. Most readings are primarily professional reports and practitioner-oriented discussions of how to conduct and use an analytical tool. These readings introduce each analytical approach, but also provide a context for considering the benefits, problems and limitations of the method.
 
 Course Requirements
 -------------------
