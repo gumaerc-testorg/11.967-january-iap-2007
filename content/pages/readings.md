@@ -37,13 +37,13 @@ Economic Data Sources and Profiling the Local and Regional Economy
 {{< tdopen >}}
 
 
-Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." _Urban Market Initiative_, July 2004. ([PDF](https://www.brookings.edu/research/using-information-to-drive-change-new-ways-of-moving-markets/))
+Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." _Urban Market Initiative_, July 2004. ({{% resource_link "2e648c97-0c6f-4f35-be9b-9e5f288b1fc6" "PDF" %}})
 
-Reamer, A., and J. Cortright. Chapter 3 in _Socioeconomic Data for Understanding Your Regional Economy._ Newton, MA: Andrew Reamer and Associates, 1998, pp. 23-46. ([PDF](http://econdata.net/wp-content/uploads/2014/12/uguide.pdf))
+Reamer, A., and J. Cortright. Chapter 3 in _Socioeconomic Data for Understanding Your Regional Economy._ Newton, MA: Andrew Reamer and Associates, 1998, pp. 23-46. ({{% resource_link "b6597ba3-4ddb-419d-a16b-52edb78f619c" "PDF" %}})
 
 Mt. Auburn Associates. _A Strategy for Fairhaven's Economic Future._ pp. 8 -10, A1- A8, data tables and figures. (Unpublished report, 1993.)
 
-"[Joint Venture](http://www.jointventure.org/index.php?option=com_content&view=article&id=293:the-2004-index-of-silicon-valley&catid=77:publications-archive&Itemid=348)." In _Joint Venture's 2004 Index for Silicon Valley,_ pp. 4-13.
+"{{% resource_link "5cf64fe0-8249-4e36-83af-5ae985519b76" "Joint Venture" %}}." In _Joint Venture's 2004 Index for Silicon Valley,_ pp. 4-13.
 
 Bendavid-Val, A. Chapter 7 in _Regional and Local Economic Analysis for Practitioners._ Westport, CT: Praeger, 1991. ISBN: 0275937518.
 
@@ -81,7 +81,7 @@ Retail and Commercial Real Estate Market Analysis
 {{< tdopen >}}
 
 
-Center for Community Economic Development. [_Downtown and Business District Market Analysis_](https://cced.ces.uwex.edu/downtown-and-business-district-economic-development/). Sections 4 (Analyzing Your Trade Area), 5 (Analyzing Local Economics) and 9 (Evaluating Retail Opportunities).
+Center for Community Economic Development. {{% resource_link "f8eebfe4-8c9a-49ee-a2aa-e766792d2d4b" "_Downtown and Business District Market Analysis_" %}}. Sections 4 (Analyzing Your Trade Area), 5 (Analyzing Local Economics) and 9 (Evaluating Retail Opportunities).
 
 Hammer, Siler, and George Associates. _Brockton Supermarket Study_ . (Unpublished report, 1995.)
 
