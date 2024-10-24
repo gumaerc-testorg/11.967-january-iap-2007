@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student project from Jenifer Kaminsky, a student in the course.
-file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/0eedcc14b5de0499fc2ffc61ad724f35_kaminsky_hartfor.pdf
+file: /ol-ocw-studio-app/courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/0eedcc14b5de0499fc2ffc61ad724f35_kaminsky_hartfor.pdf
 file_size: 133266
 file_type: application/pdf
 learning_resource_types:
