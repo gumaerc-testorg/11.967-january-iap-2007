@@ -4,7 +4,7 @@ description: This resource contains information on topics demand generators, ret
   market analysis for development sites, demand side analysis, supply side analysis,
   potential insights from surveys, tailoring market analysis to urban neighborhoods
   and office and industrial market analysis.
-file: /ol-ocw-studio-app/courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/d2ac3219fcdc0c4246ee7eac40bb89d7_lect3notes.pdf
+file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/d2ac3219fcdc0c4246ee7eac40bb89d7_lect3notes.pdf
 file_size: 51394
 file_type: application/pdf
 learning_resource_types:
